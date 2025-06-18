@@ -124,12 +124,9 @@
       "ytdl-core": "^4.11.2",
       "unofficial-fb-chat-api": "^1.0.0",
       "zalgo": "0.0.1"
-  },
+  }
   
-"dependencies": {
-  "axios": "^x.x.x",
-  "mongoose": "^6.0.0"
-}
+
 
 
 }
